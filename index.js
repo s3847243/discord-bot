@@ -21,5 +21,5 @@ client.on('interactionCreate',(interaction) =>{
     interaction.reply("Woila");
 
 })
-client.login("MTE5MTQxODY1MTcyMzcxNDY4MA.GDssP4.7Y8K_PdV_FIbx85Li6aWrLuBIelB02KpGemWgs")
+client.login("TOKEN_REMOVED")
 
